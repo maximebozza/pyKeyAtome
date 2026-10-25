@@ -33,9 +33,9 @@ import os
 # Correct example   : EMAIL = "myaddress@gmail.com"
 # Incorrect example : EMAIL = myaddress@gmail.com   <-- will not work
 #
-EMAIL = "your.email@example.com"   # <-- put your Total Energies email here
-PASSWORD = "YourPassword"          # <-- put your password here
-CUSTOMER_REF = "123456789"         # <-- put your customer reference here (9 digits)
+EMAIL = "maxime.bozza@hotmail.fr"   # <-- put your Total Energies email here
+PASSWORD = "Maxdu-33420!"          # <-- put your password here
+CUSTOMER_REF = "111485878"         # <-- put your customer reference here (9 digits)
 
 
 # ------------------------------------------------------------
